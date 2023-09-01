@@ -5,4 +5,4 @@ cd ..
 mkdir
 rmdir
 rm -r
-ps -aux
+
