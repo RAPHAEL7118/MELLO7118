@@ -1,0 +1,8 @@
+#PWD
+ls
+cd
+cd ..
+mkdir
+rmdir
+rm -r
+ps -aux
